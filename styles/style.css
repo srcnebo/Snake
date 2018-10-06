@@ -1,0 +1,14 @@
+body {
+  background-color: darkgray;
+  text-align: center;
+}
+
+#canvas {
+  background-color: white;
+}
+
+img {
+  width: 100px;
+  position: absolute;
+  left: 20px;
+}
